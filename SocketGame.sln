@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0C64FECC-A6BD-0D44-66A2-6440C1621DCE}") = "SocketGame", "Assembly-CSharp.csproj", "{AC1B206A-499B-673C-2AC5-2D2143EFA5A8}"
+EndProject
+Project("{0C64FECC-A6BD-0D44-66A2-6440C1621DCE}") = "SocketGame", "Assembly-CSharp-Editor.csproj", "{64033A1D-2D12-118E-CDA5-1E245B7C958C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1B206A-499B-673C-2AC5-2D2143EFA5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1B206A-499B-673C-2AC5-2D2143EFA5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1B206A-499B-673C-2AC5-2D2143EFA5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1B206A-499B-673C-2AC5-2D2143EFA5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64033A1D-2D12-118E-CDA5-1E245B7C958C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64033A1D-2D12-118E-CDA5-1E245B7C958C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64033A1D-2D12-118E-CDA5-1E245B7C958C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64033A1D-2D12-118E-CDA5-1E245B7C958C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
